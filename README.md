@@ -1,1 +1,3 @@
-# curso_javascript
+# curso de javascript basico
+
+Digital innovation one
